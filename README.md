@@ -10,27 +10,18 @@ Repositório para o desafio Entendendo um Ransoware na prática com Python do Sa
   - `pyaes` - Para implementar criptografia AES.
 
   ## 📂 Estrutura do Projeto
-📁 cybersecurity-desafio-ransomware
- ├── 📁 src
- │    ├── 📁 images
- │    │    ├── Print_Arquivo_criptografado.png    # Print mostrando um arquivo criptografado na estrutura do projeto
- │    │    ├── Print_Do_Arquivo_Criptografado.png # Print detalhado do arquivo criptografado
- │    │    └── Print_Encrypt_Decrypt.png          # Print mostrando o processo completo no console
- │    ├── decrypter.py                            # Script para descriptografar arquivos
- │    ├── encrypter.py                            # Script para criptografar arquivos
- │    └── README.md                               # Documentação do projeto
- └── teste.txt                                    # Arquivo de teste para criptografia
+ ![Estrutura do projeto: ](./src/images/Estrutura_Do_Projeto.png)
 
 
 ## 📸 Prints
 
 ### - Print mostrando um arquivo criptografado na estrutura do projeto
-![Print mostrando um arquivo criptografado](../src/images/Print_Arquivo_criptografado.png)
+![Print mostrando um arquivo criptografado](./src/images/Print_Arquivo_criptografado.png)
 
 ### - Print detalhado do arquivo criptografado
-![Print detalhado do arquivo criptografado](../src/images/Print_Do_Arquivo_Criptografado.png)
+![Print detalhado do arquivo criptografado](./src/images/Print_Do_Arquivo_Criptografado.png)
 
 ### - Print mostrando o processo completo no console
-![Print mostrando o processo completo](../src/images/Print_Encypt_Decrypt.png)
+![Print mostrando o processo completo](./src/images/Print_Encypt_Decrypt.png)
 
 
